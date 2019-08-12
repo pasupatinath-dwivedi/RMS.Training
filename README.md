@@ -7,11 +7,14 @@ Design decisions
 3.	.Net core api is configured with swagger URL locahost:5000/swagger
 4.	Api controller test cases are written using XUnit
 5.	Angular component test cases are written in Jasmine and use karma to run
-6.	On opening angular app  in vs code, angular test cases can be run by running
-‘ng test’ command, in VS Code terminal
+
+## Running Angular unit tests
+
+Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
 
-List of service api
+
+## List of service api
 
 Action | Method | Route
 ------------ | ------------- |--------
