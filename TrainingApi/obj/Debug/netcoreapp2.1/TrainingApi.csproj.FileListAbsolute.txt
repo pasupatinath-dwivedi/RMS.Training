@@ -1,0 +1,14 @@
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\bin\Debug\netcoreapp2.1\TrainingApi.deps.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\bin\Debug\netcoreapp2.1\TrainingApi.runtimeconfig.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\bin\Debug\netcoreapp2.1\TrainingApi.runtimeconfig.dev.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\bin\Debug\netcoreapp2.1\TrainingApi.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\bin\Debug\netcoreapp2.1\TrainingApi.pdb
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.csproj.CoreCompileInputs.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.RazorAssemblyInfo.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.RazorAssemblyInfo.cs
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.AssemblyInfoInputs.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.AssemblyInfo.cs
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.RazorTargetAssemblyInfo.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.pdb
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi\obj\Debug\netcoreapp2.1\TrainingApi.csprojAssemblyReference.cache

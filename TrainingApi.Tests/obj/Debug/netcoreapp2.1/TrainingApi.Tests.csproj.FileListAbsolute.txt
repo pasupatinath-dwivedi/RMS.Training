@@ -1,0 +1,17 @@
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.csprojAssemblyReference.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.csproj.CoreCompileInputs.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.AssemblyInfoInputs.cache
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.AssemblyInfo.cs
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.Tests.deps.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.Tests.runtimeconfig.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.Tests.runtimeconfig.dev.json
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.Tests.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.pdb
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.csproj.CopyComplete
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\bin\Debug\netcoreapp2.1\TrainingApi.Tests.pdb
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.dll
+F:\GitHub\RmsTraining\RMS.Training\TrainingApi.Tests\obj\Debug\netcoreapp2.1\TrainingApi.Tests.pdb
